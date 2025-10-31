@@ -1,20 +1,5 @@
 /* ===== CSS VARIABLES ===== */
 :root {
-  /* Light Theme Colors */
-  --bg-color: #f8fafc;
-  --surface-color: #ffffff;
-  --text-primary: #1e293b;
-  --text-secondary: #64748b;
-  --accent-color: #3b82f6;
-  --accent-hover: #2563eb;
-  --border-color: #e2e8f0;
-  --shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
-  --glass-bg: rgba(255, 255, 255, 0.25);
-  --glass-border: rgba(255, 255, 255, 0.18);
-}
-
-[data-theme="dark"] {
-  /* Dark Theme Colors */
   --bg-color: #0f172a;
   --surface-color: #1e293b;
   --text-primary: #f1f5f9;
